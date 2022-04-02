@@ -1,0 +1,14 @@
+h1 {
+    color: #e63946;
+}
+
+div {
+    padding: 10px;
+    border: 15px solid #457b9d;
+    margin: 20px;
+    width: 300px;
+    background-color: hsl(105, 55%, 96%);
+    /* box-sizing: border-box; */
+    outline: 10px solid #a8dadc; 
+    /* El outline está dentro de margin pero no suma al total */
+}
